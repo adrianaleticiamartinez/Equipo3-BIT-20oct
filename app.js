@@ -23,7 +23,7 @@ const ClienteSchema = {
   apellidoMaterno: String,
   fechaNacimiento: Date,
   sexo: String,
-  segmento: CharacterData,
+  segmento: String,
   nacionalidad:String,
   rfc:String,
   tipoID: String,
